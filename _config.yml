@@ -3,3 +3,4 @@ description: Free resources, notes, and materials for OU students
 theme: minima
 baseurl: "" # Keep blank for GitHub Pages
 url: "http://ouprephub.github.io/"
+remote_theme: pages-themes/cayman@v0.2.0
